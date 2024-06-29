@@ -24,4 +24,4 @@ I'm a dynamic Software Engineer specializing in Machine Learning, Data Science, 
 ---
 [![](https://visitcount.itsvg.in/api?id=harixx&icon=8&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/harixx/harixx/blob/output/github-contribution-grid-snake.svg)
