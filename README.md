@@ -21,7 +21,19 @@ I'm a dynamic Software Engineer specializing in Machine Learning, Data Science, 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harixx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+###Visitor Count 👀
 [![](https://visitcount.itsvg.in/api?id=harixx&icon=8&color=4)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/harixx/harixx/blob/output/github-contribution-grid-snake.svg)
+
+### How to Reach Me
+
+📧 Email: [muhammadharissalman@gmail.com](mailto:muhammadharissalman@gmail.com)
+
+🔗 LinkedIn: [Muhammad Haris Salman](https://www.linkedin.com/in/muhammadharissalman)
+
+🐦 Twitter: [@HarixSalman](https://twitter.com/harissalman)
+kag
+📝 Medium: [Muhammad Haris Salman](https://muhammadharissalman.medium.com)
+
+📊 Kaggle: [Muhammad Haris Salman](https://www.kaggle.com/muhammadharissalman)
