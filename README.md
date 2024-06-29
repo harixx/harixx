@@ -33,7 +33,7 @@ I'm a dynamic Software Engineer specializing in Machine Learning, Data Science, 
 🔗 LinkedIn: [Muhammad Haris Salman](https://www.linkedin.com/in/muhammadharissalman)
 
 🐦 Twitter: [@HarixSalman](https://twitter.com/harissalman)
-kag
+
 📝 Medium: [Muhammad Haris Salman](https://muhammadharissalman.medium.com)
 
 📊 Kaggle: [Muhammad Haris Salman](https://www.kaggle.com/muhammadharissalman)
