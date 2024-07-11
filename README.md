@@ -78,7 +78,13 @@ I'm a dynamic Software Engineer with a passion for Machine Learning, Data Scienc
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/gztq1wsw93d5vlc362idjckfy)
 
+[<img src="https://novatorem-rose-three.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gztq1wsw93d5vlc362idjckfy)
+
+[![Spotify](https://harixx.vercel.app/api/spotify)](https://open.spotify.com/user/gztq1wsw93d5vlc362idjckfy)
+
 🎧 Listening to my favorite tunes on Spotify!
+
+
 
 <br>
 
