@@ -26,7 +26,8 @@
 I'm a dynamic Software Engineer with a passion for Machine Learning, Data Science, and Full Stack Web Development. Constantly adapting to new technologies, I thrive in competitive environments, leveraging innovation to enhance user experiences.
 
 - 🎓 BSc in Computer Engineering from **NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES (FAST)**
-- 🔭 Currently working at **Fatima Group** as an Associate Software Engineer
+- 🔭 Worked as at **Fatima Group** as an Associate Software Engineer
+- ⚒ Currently working Software Engineer at **Marham**
 - 🌱 Pursuing MSc in Data Science at **FAST National University**
 
 <br>
