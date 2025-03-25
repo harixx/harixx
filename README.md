@@ -33,7 +33,7 @@ I'm a dynamic Software Engineer with a passion for Machine Learning, Data Scienc
 <br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XPbVTGHrdh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadharissalman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadharissalman) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Haris-Salman-3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarixSalman) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XPbVTGHrdh) <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadharissalman) --> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadharissalman) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Haris-Salman-3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarixSalman) 
 
 <br>
 
@@ -95,9 +95,9 @@ I'm a dynamic Software Engineer with a passion for Machine Learning, Data Scienc
 
 # How to Reach Me
 
-📧 Email: [muhammadharissalman@gmail.com](mailto:muhammadharissalman@gmail.com)
+📧 Email: [muhammadharissalman276@gmail.com](mailto:muhammadharissalman@gmail.com)
 
-🔗 LinkedIn: [Muhammad Haris Salman](https://www.linkedin.com/in/muhammadharissalman)
+<!-- 🔗 LinkedIn: [Muhammad Haris Salman](https://www.linkedin.com/in/muhammadharissalman) -->
 
 🐦 Twitter: [@HarixSalman](https://twitter.com/harissalman)
 
