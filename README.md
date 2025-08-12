@@ -89,6 +89,15 @@ I'm a dynamic Software Engineer with a passion for Machine Learning, Data Scienc
 🎧 Listening to my favorite tunes on Spotify!
 
 
+<br>
+
+## 📊 GitHub Contributions
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harixx)](https://github.com/ryo-ma/github-profile-trophy) 
+
+![GitHub chart](https://ghchart.rshah.org/harixx)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harixx&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
 
