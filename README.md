@@ -28,7 +28,7 @@ I'm a dynamic Software Engineer with a passion for Machine Learning, Data Scienc
 - 🎓 BSc in **Electrical Engineering** from **NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES (FAST)**
 - 🔭 Worked at **Fatima Group** as an **Associate Software Engineer**
 - ⚒  Worked at **Corvit Systems** as an **Artificial Intelligence Engineer**
-- 🌱 Pursuing MSc in Data Science at **FAST National University**
+<!-- - 🌱 Pursuing MSc in Data Science at **FAST National University** -->
 
 <br>
 
